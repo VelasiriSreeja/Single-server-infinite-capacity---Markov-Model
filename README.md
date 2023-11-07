@@ -12,20 +12,29 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 This is a queuing model in which the arrival is Marcovian and departure distribution is also Marcovian,number of server is one and size of the queue is also Marcovian,no.of server is one and size of the queue is infinite and service discipline is 1st come 1st serve(FCFS) and the calling source is also finite.
 
-## Procedure :
+#procedure :
+```
+developed by:v.sreeja
+reg.no:212222230169
 
 ![imAGE](2.png)
 
 
-
 ## Experiment:
 
+![Screenshot (422)](https://github.com/VelasiriSreeja/Single-server-infinite-capacity---Markov-Model/assets/118344328/2543a96b-c415-4d47-b687-79706344eca5)
+
+![Screenshot (423)](https://github.com/VelasiriSreeja/Single-server-infinite-capacity---Markov-Model/assets/118344328/c201dc32-c221-42f3-ab21-d2a5f5ddfe2c)
 
  
 ## Program
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
+![Screenshot (421)](https://github.com/VelasiriSreeja/Single-server-infinite-capacity---Markov-Model/assets/118344328/841d129f-5401-40f0-974b-ecef18a566a3)
 
 ## Result :
+The average number of material in the sysytem and in the conveyor and waiting time are
+successfully found.
+
 
